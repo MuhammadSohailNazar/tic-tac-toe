@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "clothing-db-560b4": {
+      "hosting": {
+        "tic-tac-toe": [
+          "clothing-db-560b4"
+        ]
+      }
+    }
+  }
+}
